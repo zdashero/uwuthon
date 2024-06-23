@@ -1,17 +1,17 @@
-# UwU Script Converter and realtime translator
+# UwUthon
+A Pywhon script conwerter and rwunner that UwUifies your programs! (pwease contwibute to uwuify evern fuwthew) 
 
-a Python script designed to convert a source code file into "UwU" language using Python and run the converted scripts realtime
+## Usage
+1. Edit `convert.py` and change `pywopath`'s vwalue to your file (Default is `script.py`)
+    - Optionally, change `uwupathywathy`'s vwalue to your preferred file. (Default is `script.uwu`)
+2. Wun `python convert.py`
+3. Wun `python uwuthon.py (outputFile.uwu)`
 
-## How it Works
+## How it works
+This pwogram employs a pwedefined a mwapping dictionawy that pairs Python keywords and identifiers with their UwUified counterpawts. For instance:
+- `import` → `impowt`
+- `return` → `wetuwn`
+- `not` → `nyot`
 
-The script employs a predefined mapping dictionary (`mapping`) that pairs Python keywords and identifiers with their corresponding "UwU" equivalents. For instance:
-- "import" becomes "impowt"
-- "return" becomes "wetuwn"
-- "not" becomes "nyot"
-- and so forth.
-
-  ### how to use
-
-  1. replace pywopath = 'script.py' and uwupathywathy = 'script.uwu' to whatever script name you want
-  2. run python converter.py
-  3. run python uwuthon.py script.uwu
+## License
+no :3
