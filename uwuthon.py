@@ -1,3 +1,4 @@
+#say gex
 import sys
 import re
 
