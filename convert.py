@@ -1,3 +1,4 @@
+#say gex
 import re
 mapping = {
     "impowt": "import",
